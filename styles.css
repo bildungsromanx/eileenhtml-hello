@@ -1,0 +1,36 @@
+body {
+    background: whitesmoke;
+    margin: 0 auto;
+    font-family: helvetica;
+}
+header {
+    background: whitesmoke; 
+    text-align: center;
+}
+section {
+    padding-top: 20px;
+
+}
+div.header {
+    padding: 15px;
+}
+div.header h2 {
+    margin: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+.container {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+img {
+    width: 100%;
+    
+}
+div.description {
+    padding: 15px;
+}
+.container .header .date {float: right; margin: 0;}
